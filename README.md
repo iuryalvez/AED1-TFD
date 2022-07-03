@@ -2,8 +2,8 @@
     
 Trabalho desenvolvido por:
   
-  - Filipe Brito Manganelli e
-  - Iury Alexandre Alves Bó 
+  - [Filipe Manganelli](https://github.com/fbmanganelli) e
+  - [Iury Alves](https://github.com/iuryalvez) 
 
 Nossa aplicação é um programa que faz o controle do banco de dados do Restaurante 
 Universitário (RU) da UFG, em código (Linguagem C), é uma lista encadeada que 
@@ -15,7 +15,7 @@ será responsável por armazenar a matrícula, nome e créditos de diferentes al
 - ”ADM.c” = responsável por implementar as funções administrativas do programa
 - “main.c” = o script principal.
 
-Para compilar:        
+Para compilar e executar:        
  
         gcc -c RU.c -o RU.o 
  
