@@ -52,9 +52,9 @@ também estático. Utilizamos funções de busca sequencial e busca binária con
 pedido e para os dois algoritmos de ordenação escolhemos o quicksort e o merge sort, ambos
 estudados em classe.
 
-O programa é bem intuitivo para ser usado, já vem com dados de 15 pessoaa 
+O programa é bem intuitivo para ser usado, já vem com dados de 15 pessoas 
 cadastradas para melhor manipulação e visualização do programa, não achamos
-que possa ter problemas na execução, qualquer dúvida, sugestão ou problemas,
-contatar via email:
+que possa ter problemas na execução.
+
   - filipemanganelli@discente.ufg.br
   - iury.alves@discente.ufg.br
